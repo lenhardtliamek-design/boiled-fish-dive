@@ -15,6 +15,5 @@ Open `index.html` in a browser. It's a single file; it loads three.js and Google
 
 - Red chili walls break when you shoot them; everything else you have to dodge.
 - **Golden peppers** add bonus distance (more for several in a row).
-- **Red peppers** fill the 麻辣 Rush meter; five of them let you smash through anything for 4 seconds.
 - Near misses and blasted walls add bonus distance.
 - Four spice levels: 微辣 Mild, 中辣 Medium, 特辣 Extra hot, 变态辣 Insane. Reach 1,500 m on one to unlock the next. Best distances save in your browser.
