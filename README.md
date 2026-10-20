@@ -4,7 +4,9 @@ A first-person endless runner inspired by *Infinite Pizza*: dive down an endless
 
 ## Play
 
-Open `index.html` in a browser. It's a single file; it loads three.js and Google Fonts from CDNs, so it needs an internet connection.
+**Play it in your browser: https://lenhardtliamek-design.github.io/boiled-fish-dive/**
+
+Or open `index.html` locally. It's a single file; it loads three.js and Google Fonts from CDNs, so it needs an internet connection.
 
 ## Controls
 
